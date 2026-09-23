@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joseg\\Desktop\\POO\\poo\\poo.csproj": {}
+    "C:\\Users\\chilab\\Desktop\\Nueva carpeta\\poo\\poo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joseg\\Desktop\\POO\\poo\\poo.csproj": {
+    "C:\\Users\\chilab\\Desktop\\Nueva carpeta\\poo\\poo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joseg\\Desktop\\POO\\poo\\poo.csproj",
+        "projectUniqueName": "C:\\Users\\chilab\\Desktop\\Nueva carpeta\\poo\\poo.csproj",
         "projectName": "poo",
-        "projectPath": "C:\\Users\\joseg\\Desktop\\POO\\poo\\poo.csproj",
-        "packagesPath": "C:\\Users\\joseg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joseg\\Desktop\\POO\\poo\\obj\\",
+        "projectPath": "C:\\Users\\chilab\\Desktop\\Nueva carpeta\\poo\\poo.csproj",
+        "packagesPath": "C:\\Users\\chilab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chilab\\Desktop\\Nueva carpeta\\poo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\joseg\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\chilab\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

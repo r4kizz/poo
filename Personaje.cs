@@ -18,10 +18,10 @@ public class Personaje
     public virtual void Atacar(Personaje objetivo)
     {
         Console.WriteLine( $"El {objetivo.Nombre} fue atacado por {Nombre}");
-        objetivo.RecibirDaño(Fuerza);
+        objetivo.RecibirDano(Fuerza);
     }
 
-    public virtual void RecibirDaño(int dano)
+    public virtual void RecibirDano(int dano)
     {
         Vida -= dano;
         if(Vida < 0)Vida = 0;
